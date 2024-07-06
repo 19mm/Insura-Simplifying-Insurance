@@ -17,7 +17,7 @@ This project is an Insurance Management System designed to manage insurances onl
 ## Database
 1. Set up the database:
    - Create a new MySQL database.
-   - Import the provided SQL file (`database.sql`) to set up the required tables.
+   - Import the provided SQL file (`insurance_management.sql`) to set up the required tables.
 
 2. Update the database configuration in the PHP files:
       Update the database connection details in config.php
