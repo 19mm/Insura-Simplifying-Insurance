@@ -1,5 +1,5 @@
-# Insurance Management System
-This project is an Insurance Management System designed to manage insurances online efficiently. It features an intuitive end-user panel for clients and a robust admin panel for administrators, ensuring ease of use and proper functionality. The system is developed using HTML, CSS, JavaScript for the frontend, and PHP with MySQL for the backend.
+# Insura: Simplifying Insurance
+This project Insura is an Insurance Management System designed to manage insurances online efficiently. It features an intuitive end-user panel for clients and a robust admin panel for administrators, ensuring ease of use and proper functionality. The system is developed using HTML, CSS, JavaScript for the frontend, and PHP with MySQL for the backend.
 
 ## Features
 ### End-User Panel
